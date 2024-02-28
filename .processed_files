@@ -7,3 +7,5 @@
 11-binary_tree_size.c
 12-binary_tree_leaves.c
 13-binary_tree_nodes.c
+16-binary_tree_is_perfect.c
+17-binary_tree_sibling.c
