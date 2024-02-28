@@ -2,6 +2,7 @@
 #include <stddef.h>
 #include <stdlib.h>
 
+
 /**
  * binary_tree_nodes - counts the nodes with at least 1 child in a binary tree
  * @tree: pointer to the root node of the tree to count the number of nodes
