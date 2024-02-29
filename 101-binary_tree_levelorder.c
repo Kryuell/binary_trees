@@ -119,4 +119,4 @@ void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int))
 		pint_push(head->node, head, &tail, func);
 		pop(&head);
 	}
-
+}
